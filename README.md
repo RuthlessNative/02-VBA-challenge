@@ -1,4 +1,4 @@
-# VBA-challenge
+# 02-VBA-challenge
 
 1. Data is already organized by date, making it possible to look through row by row.
 
